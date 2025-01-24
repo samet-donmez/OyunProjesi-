@@ -1,5 +1,13 @@
 # CivcivKaç Oyunu Final Proje Ödevi
 
+# Oyun Linki 
+
+https://simmer.io/@sametdonmez/civcivkac
+
+https://samet-donmez.itch.io/civcivkac
+
+# Görev Dağılımı
+
 | Samet Dönmez - 21360859008        | Rukiye Boğa - 21360859056       |
 |-----------------------------|-----------------------------|
 | Ana Menü (15x)      | Ana Menü (15x)  |
