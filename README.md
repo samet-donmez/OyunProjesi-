@@ -4,7 +4,7 @@ Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek engellere çarpmadan 
 
 Her yemek toplandığında skor artar. Yemeklerin yanı sıra, bazen ek özellik sağlayan iksir şişeleri belirir. Oyuncu bir iksir şişesi topladığında, civcivin hızı birkaç saniyeliğine artar.
 
-Skorumuz 10, 20 ve 30'a ulaştığında, oyuncunun karşılaştığı engel olan kuşların hızları artarak oyunun zorluğunu yükseltir. Skor 10 olduğunda ise yeni bir sahneye geçilir. Yeni sahnede görsel tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
+Skor 10, 20 ve 30'a ulaştığında, oyuncunun karşılaştığı engel olan kuşların hızları artarak oyunun zorluğunu yükseltir. Skor 10 olduğunda ise yeni bir sahneye geçilir. Yeni sahnede görsel tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
 
 Ayrıca, oyun içi atmosferi zenginleştiren arka plan müzikleri ve ses efektleri bulunur. Oyuncular, Ana menüsündeki ses kontrol kaydırma çubuğu ile ve duraklatma menüsündeki ses kontrol kaydırma çubuğu ile müzik ve ses efektlerinin ses seviyesini kendi tercihlerine göre ayarlayabilir.
 
