@@ -1,14 +1,26 @@
 # CivcivKaç Oyunu Final Proje Ödevi
 
-Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek diğer kuşlara çarpmadan yemekleri toplamaya çalışır. Her yemek toplandığında oyuncunun skoru artar ve skor 10 olduğunda, oyuncu yeni bir sahneye geçer. Yeni sahnede tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
+Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek diğer kuşlara çarpmadan yemekleri ve bonus nesneleri toplamaya çalışır. Oyuncunun temel amacı, skorunu artırırken engellere dikkat etmek ve stratejik hamlelerle ilerlemektir.
+
+Her yemek toplandığında skor artar. Yemeklerin yanı sıra, bazen ek özellikler sağlayan iksir şişeleri belirir. Oyuncu bir iksir şişesi topladığında, civcivin hızı birkaç saniyeliğine artar.
+
+Skor 10, 20, 30 gibi belirli katlara ulaştığında, oyuncunun karşılaştığı engel olan kuşların hızları artarak oyunun zorluğunu yükseltir. Skor 10 olduğunda ise yeni bir sahneye geçilir. Yeni sahnede görsel tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
+
+Ayrıca, oyun içi atmosferi zenginleştiren arka plan müzikleri ve ses efektleri bulunur. Oyuncular, ayarlar menüsündeki ses kontrol kaydırma çubuğu ile müzik ve ses efektlerinin ses seviyesini kendi tercihlerine göre ayarlayabilir.
 
 **Özellikler:**
 
--*Kolay Oynanabilirlik*: Tek bir mekanik (yemek toplama) üzerine odaklanılmıştır.
+-*Kolay Oynanabilirlik*: Basit ama keyifli bir kontrol mekanizması sunar.
 
--*Eğlenceli Tasarım*: Farklı sahneler ve tasarımlar oyuncunun ilgisini canlı tutar.
+-*Eğlenceli ve Gelişen Zorluk*: Skor arttıkça engeller daha zorlayıcı hale gelir ve oyuncunun reflekslerini test eder.
+
+-*Bonus Nesneler*: İksir şişesi gibi özel nesneler, oyuncuya kısa süreli avantajlar sağlar.
+
+-*Dinamik Tasarım*: Her sahnede farklı görsel tasarımlar ve atmosferler bulunur.
 
 -*Skor Takibi*: Oyuncunun performansını değerlendirebileceği bir skor sistemi mevcuttur.
+
+-*Ses ve Müzik Ayarları*: Oyuncular, arka plan müziği ve ses efektlerini özelleştirebilir.
 
 **Oyunun amacı**, hem basit hem de eğlenceli bir oynanış sunarak oyuncunun reflekslerini test etmektir.
 
@@ -35,6 +47,9 @@ Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek diğer kuşlara çarp
 
 7. **Oyun Arka Plan Görselleri:**
    - *Kaynak*: [Unity Asset Store - Painted HQ 2D Forest Medieval Background](https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738)
+
+8. **Oyun İçi Müzik:**
+   - *Kaynak*: [Youtube - Okul öncesi hareketli fon müzikleri 18 - Josefina](https://www.youtube.com/watch?v=tghLDror7sg&list=PLuy3eFfdRdjciGZU93HEYFXkmne-ex4b1&index=5)
 
 
 # Oyun Linki 
