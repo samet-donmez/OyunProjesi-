@@ -1,11 +1,17 @@
 # CivcivKaç Oyunu Final Proje Ödevi
 
 Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek diğer kuşlara çarpmadan yemekleri toplamaya çalışır. Her yemek toplandığında oyuncunun skoru artar ve skor 10 olduğunda, oyuncu yeni bir sahneye geçer. Yeni sahnede tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
+
 **Özellikler:**
+
 -*Kolay Oynanabilirlik*: Tek bir mekanik (yemek toplama) üzerine odaklanılmıştır.
+
 -*Eğlenceli Tasarım*: Farklı sahneler ve tasarımlar oyuncunun ilgisini canlı tutar.
+
 -*Skor Takibi*: Oyuncunun performansını değerlendirebileceği bir skor sistemi mevcuttur.
+
 **Oyunun amacı**, hem basit hem de eğlenceli bir oynanış sunarak oyuncunun reflekslerini test etmektir.
+
 
 # Projede Kullanılan Varlık Kaynakları
 
