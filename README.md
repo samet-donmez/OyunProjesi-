@@ -58,7 +58,7 @@ Skor 10 olduğunda birinci engelin ses efekti , skor 20 olduğunda ise üçünc�
 9. **İlk Engel Ses (0.08-0.10):**
    - *Kaynak*: [Youtube - Sound Effect - Hız. Ben hızlıyım (Şimşek Mcqueen)](https://www.youtube.com/watch?v=S-GnUpMUmuY)
 
-10.  **Üçüncü Engel Ses (0.43-0.44):**
+ 10.  **Üçüncü Engel Ses (0.43-0.44):**
    - *Kaynak*: [Youtube - Sound Effect - 20 Sound Effect For Edits - Sound Effect)](https://www.youtube.com/watch?v=0Yxl-lHsEq8)
   
 
