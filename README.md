@@ -58,7 +58,7 @@ Skorumuz 10 olduğunda birinci engelin ses efekti , skorumuz 20 olduğunda ise �
 9. **İlk Engel Ses (0.08-0.10):**
    - https://www.youtube.com/watch?v=S-GnUpMUmuY
   
-10. **Üçüncü Engel Ses (0.43-0.44):**
+ 10. **Üçüncü Engel Ses (0.43-0.44):**
    - [https://www.youtube.com/watch?v=S-GnUpMUmuY](https://www.youtube.com/watch?v=0Yxl-lHsEq8)
 
 
