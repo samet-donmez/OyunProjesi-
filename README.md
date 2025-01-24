@@ -1,5 +1,12 @@
 # CivcivKaç Oyunu Final Proje Ödevi
 
+# Projede Kullanılan Varlık Kaynakları
+
+1. **Civciv Görseli:**
+   - Kaynak: [Unity Asset Store - Cute Birds](https://assetstore.unity.com/packages/2d/characters/cute-birds-89649)
+   - Lisans: Unity Asset Store kullanım koşullarına (EULA) uygundur. Daha fazla bilgi için [Unity Asset Store Lisans Koşulları](https://unity.com/legal/as-terms) sayfasını inceleyebilirsiniz.
+
+
 # Oyun Linki 
 
 https://simmer.io/@sametdonmez/civcivkac
