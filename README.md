@@ -54,13 +54,13 @@ Skor 10 olduğunda birinci engelin ses efekti , skor 20 olduğunda ise üçünc�
 
 8. **Oyun İçi Müzik:**
    - *Kaynak*: [Youtube - Okul öncesi hareketli fon müzikleri 18 - Josefina](https://www.youtube.com/watch?v=tghLDror7sg&list=PLuy3eFfdRdjciGZU93HEYFXkmne-ex4b1&index=5)
-     
-9. **İlk Engel Ses (0.08-0.10):**
-   - https://www.youtube.com/watch?v=S-GnUpMUmuY
-  
-10. **Üçüncü Engel Ses (0.43-0.44):**
-   - [https://www.youtube.com/watch?v=S-GnUpMUmuY](https://www.youtube.com/watch?v=0Yxl-lHsEq8)
 
+9. **İlk Engel Ses (0.08-0.10):**
+   - *Kaynak*: [Youtube - Sound Effect - Hız. Ben hızlıyım (Şimşek Mcqueen)](https://www.youtube.com/watch?v=S-GnUpMUmuY)
+
+10. **Üçüncü Engel Ses (0.43-0.44):**
+   - *Kaynak*: [Youtube - Sound Effect - 20 Sound Effect For Edits - Sound Effect)](https://www.youtube.com/watch?v=0Yxl-lHsEq8)
+  
 
 # Oyun Linki 
 
