@@ -8,9 +8,9 @@ Skorumuz 10, 20 ve 30'a ulaştığında, oyuncunun karşılaştığı engel olan
 
 Ayrıca, oyun içi atmosferi zenginleştiren arka plan müzikleri ve ses efektleri bulunur. Oyuncular, Ana menüsündeki ses kontrol kaydırma çubuğu ile ve duraklatma menüsündeki ses kontrol kaydırma çubuğu ile müzik ve ses efektlerinin ses seviyesini kendi tercihlerine göre ayarlayabilir.
 
-Birinci ve ikinci engel animasyona sahiptir. İlk engelin animasyonu sürekli tekrarlanmaktadır ancak ikinci engelin animasyonu skorumuz skorumuz 3, 5 ve 7 olduğunda değişmektedir.
+Birinci ve ikinci engel animasyona sahiptir. İlk engelin animasyonu sürekli tekrarlanmaktadır ancak ikinci engelin animasyonu, skor 3, 5 ve 7 olduğunda değişmektedir.
 
-Skorumuz 10 olduğunda birinci engelin ses efekti , skorumuz 20 olduğunda ise üçüncü engelin ses efekti çalmaktadır. Bu ses efekti engelin civcivimize olan konumuna göre sağdan ya da soldan duyulmaktadır.
+Skor 10 olduğunda birinci engelin ses efekti , skor 20 olduğunda ise üçüncü engelin ses efekti çalmaktadır. Bu ses efekti engelin civcive olan konumuna göre sağdan ya da soldan duyulmaktadır.
 
 **Özellikler:**
 
