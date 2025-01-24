@@ -1,12 +1,16 @@
 # CivcivKaç Oyunu Final Proje Ödevi
 
-Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek diğer kuşlara çarpmadan yemekleri ve bonus nesneleri toplamaya çalışır. Oyuncunun temel amacı, skorunu artırırken engellere dikkat etmek ve stratejik hamlelerle ilerlemektir.
+Bu proje oyununda, oyuncu sarı bir civcivi kontrol ederek engellere çarpmadan yemekleri ve bonus nesneleri toplamaya çalışır. Oyuncunun temel amacı, skorunu artırırken engellere dikkat etmek ve stratejik hamlelerle ilerlemektir.
 
-Her yemek toplandığında skor artar. Yemeklerin yanı sıra, bazen ek özellikler sağlayan iksir şişeleri belirir. Oyuncu bir iksir şişesi topladığında, civcivin hızı birkaç saniyeliğine artar.
+Her yemek toplandığında skor artar. Yemeklerin yanı sıra, bazen ek özellik sağlayan iksir şişeleri belirir. Oyuncu bir iksir şişesi topladığında, civcivin hızı birkaç saniyeliğine artar.
 
-Skor 10, 20, 30 gibi belirli katlara ulaştığında, oyuncunun karşılaştığı engel olan kuşların hızları artarak oyunun zorluğunu yükseltir. Skor 10 olduğunda ise yeni bir sahneye geçilir. Yeni sahnede görsel tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
+Skorumuz 10, 20 ve 30'a ulaştığında, oyuncunun karşılaştığı engel olan kuşların hızları artarak oyunun zorluğunu yükseltir. Skor 10 olduğunda ise yeni bir sahneye geçilir. Yeni sahnede görsel tasarım değişir, ancak oyunun amacı aynı şekilde devam eder.
 
-Ayrıca, oyun içi atmosferi zenginleştiren arka plan müzikleri ve ses efektleri bulunur. Oyuncular, ayarlar menüsündeki ses kontrol kaydırma çubuğu ile müzik ve ses efektlerinin ses seviyesini kendi tercihlerine göre ayarlayabilir.
+Ayrıca, oyun içi atmosferi zenginleştiren arka plan müzikleri ve ses efektleri bulunur. Oyuncular, Ana menüsündeki ses kontrol kaydırma çubuğu ile ve duraklatma menüsündeki ses kontrol kaydırma çubuğu ile müzik ve ses efektlerinin ses seviyesini kendi tercihlerine göre ayarlayabilir.
+
+Birinci ve ikinci engel animasyona sahiptir. İlk engelin animasyonu sürekli tekrarlanmaktadır ancak ikinci engelin animasyonu skorumuz skorumuz 3, 5 ve 7 olduğunda değişmektedir.
+
+Skorumuz 10 olduğunda birinci engelin ses efekti , skorumuz 20 olduğunda ise üçüncü engelin ses efekti çalmaktadır. Bu ses efekti engelin civcivimize olan konumuna göre sağdan ya da soldan duyulmaktadır.
 
 **Özellikler:**
 
@@ -27,29 +31,35 @@ Ayrıca, oyun içi atmosferi zenginleştiren arka plan müzikleri ve ses efektle
 
 # Projede Kullanılan Varlık Kaynakları
 
-1. **Civciv Görseli:**
+1. **Civciv (Player) Asset:**
    - *Kaynak*: [Unity Asset Store - Cute Birds](https://assetstore.unity.com/packages/2d/characters/cute-birds-89649)
   
-2. **İlk Engel Kuş ve Uçurtma Görseli:**
-   - *Kaynak*: [Unity Asset Store -Cartoon Eagle 2D](https://assetstore.unity.com/packages/2d/characters/cartoon-eagle-2d-196612)
-  
-3. **İkinci Engel Kuş Görseli:**
+2. **İlk Engel Kuş ve Uçurtma Asset:**
    - *Kaynak*: [Unity Asset Store - 2D Cute Birds(4 in 1) Mini pack](https://assetstore.unity.com/packages/2d/characters/2d-cute-birds-4-in-1-mini-pack-237273)
+  
+3. **İkinci Engel Kuş Asset:**
+   - *Kaynak*: [Unity Asset Store -Cartoon Eagle 2D](https://assetstore.unity.com/packages/2d/characters/cartoon-eagle-2d-196612)
 
-4. **Üçüncü Engel Goblin Görseli:**
+4. **Üçüncü Engel Goblin Asset:**
    - *Kaynak*: [Unity Asset Store -Goblin Archer Cartoon Character](https://assetstore.unity.com/packages/2d/characters/goblin-archer-cartoon-character-17253)
 
-5. **Yem ve Kalan Can Görselleri:**
+5. **Yem ve Kalan Can Görselleri Asset:**
    - *Kaynak*: [Unity Asset Store - 2D ITEMS SET - HANDPAINTED](https://assetstore.unity.com/packages/2d/gui/icons/2d-items-set-handpainted-210729)
 
-6. **Hızlandırıcı İksir Şişesi Görseli:**
+6. **Hızlandırıcı İksir Şişesi Asset:**
    - *Kaynak*: [Unity Asset Store - 2D Potions Pixel Art](https://assetstore.unity.com/packages/2d/gui/icons/2d-potions-pixel-art-196023)
 
-7. **Oyun Arka Plan Görselleri:**
+7. **Oyun Arka Planı Asset:**
    - *Kaynak*: [Unity Asset Store - Painted HQ 2D Forest Medieval Background](https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738)
 
 8. **Oyun İçi Müzik:**
    - *Kaynak*: [Youtube - Okul öncesi hareketli fon müzikleri 18 - Josefina](https://www.youtube.com/watch?v=tghLDror7sg&list=PLuy3eFfdRdjciGZU93HEYFXkmne-ex4b1&index=5)
+     
+9. **İlk Engel Ses (0.08-0.10):**
+   - https://www.youtube.com/watch?v=S-GnUpMUmuY
+  
+10. **Üçüncü Engel Ses (0.43-0.44):**
+   - [https://www.youtube.com/watch?v=S-GnUpMUmuY](https://www.youtube.com/watch?v=0Yxl-lHsEq8)
 
 
 # Oyun Linki 
