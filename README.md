@@ -15,13 +15,13 @@
    - Kaynak: [Unity Asset Store -Goblin Archer Cartoon Character](https://assetstore.unity.com/packages/2d/characters/goblin-archer-cartoon-character-17253)
 
 5. **Yem ve Kalan Can Görselleri:**
-   - Kaynak: [Unity Asset Store - Cute Birds](https://assetstore.unity.com/packages/2d/gui/icons/2d-items-set-handpainted-210729)
+   - Kaynak: [Unity Asset Store - 2D ITEMS SET - HANDPAINTED](https://assetstore.unity.com/packages/2d/gui/icons/2d-items-set-handpainted-210729)
 
 6. **Hızlandırıcı İksir Şişesi Görseli:**
    - Kaynak: [Unity Asset Store - 2D Potions Pixel Art](https://assetstore.unity.com/packages/2d/gui/icons/2d-potions-pixel-art-196023)
 
 7. **Oyun Arka Plan Görselleri:**
-   - Kaynak: [Unity Asset Store - Cute Birds](https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738)
+   - Kaynak: [Unity Asset Store - Painted HQ 2D Forest Medieval Background](https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738)
 
 
 # Oyun Linki 
